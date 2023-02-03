@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\bin\Debug\net7.0\FunConsoleStuff.exe
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\bin\Debug\net7.0\FunConsoleStuff.deps.json
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\bin\Debug\net7.0\FunConsoleStuff.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\bin\Debug\net7.0\FunConsoleStuff.dll
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\bin\Debug\net7.0\FunConsoleStuff.pdb
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\FunConsoleStuff.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\FunConsoleStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\FunConsoleStuff.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\FunConsoleStuff.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\FunConsoleStuff.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\FunConsoleStuff.dll
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\refint\FunConsoleStuff.dll
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\FunConsoleStuff.pdb
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\FunConsoleStuff.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\FunConsoleStuff\obj\Debug\net7.0\ref\FunConsoleStuff.dll

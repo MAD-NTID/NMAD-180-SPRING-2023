@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\Expression\bin\Debug\net7.0\Expression.exe
+C:\Users\kscics\Desktop\inClassDemo\Expression\bin\Debug\net7.0\Expression.deps.json
+C:\Users\kscics\Desktop\inClassDemo\Expression\bin\Debug\net7.0\Expression.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\Expression\bin\Debug\net7.0\Expression.dll
+C:\Users\kscics\Desktop\inClassDemo\Expression\bin\Debug\net7.0\Expression.pdb
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\Expression.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\Expression.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\Expression.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\Expression.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\Expression.dll
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\refint\Expression.dll
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\Expression.pdb
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\Expression.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\Expression\obj\Debug\net7.0\ref\Expression.dll

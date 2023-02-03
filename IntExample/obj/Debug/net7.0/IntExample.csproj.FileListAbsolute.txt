@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\IntExample\bin\Debug\net7.0\IntExample.exe
+C:\Users\kscics\Desktop\inClassDemo\IntExample\bin\Debug\net7.0\IntExample.deps.json
+C:\Users\kscics\Desktop\inClassDemo\IntExample\bin\Debug\net7.0\IntExample.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\IntExample\bin\Debug\net7.0\IntExample.dll
+C:\Users\kscics\Desktop\inClassDemo\IntExample\bin\Debug\net7.0\IntExample.pdb
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\IntExample.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\IntExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\IntExample.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\IntExample.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\IntExample.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\IntExample.dll
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\refint\IntExample.dll
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\IntExample.pdb
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\IntExample.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\IntExample\obj\Debug\net7.0\ref\IntExample.dll

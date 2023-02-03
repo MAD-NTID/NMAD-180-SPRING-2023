@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\HardCodedvsUserInput.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\HardCodedvsUserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\HardCodedvsUserInput.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\HardCodedvsUserInput.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\HardCodedvsUserInput.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\bin\Debug\net7.0\HardCodedvsUserInput.exe
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\bin\Debug\net7.0\HardCodedvsUserInput.deps.json
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\bin\Debug\net7.0\HardCodedvsUserInput.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\bin\Debug\net7.0\HardCodedvsUserInput.dll
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\bin\Debug\net7.0\HardCodedvsUserInput.pdb
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\HardCodedvsUserInput.dll
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\refint\HardCodedvsUserInput.dll
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\HardCodedvsUserInput.pdb
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\HardCodedvsUserInput.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\HardCodedvsUserInput\obj\Debug\net7.0\ref\HardCodedvsUserInput.dll
