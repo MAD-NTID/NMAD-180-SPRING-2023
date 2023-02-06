@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\Decision\bin\Debug\net7.0\Decision.exe
+C:\Users\kscics\Desktop\inClassDemo\Decision\bin\Debug\net7.0\Decision.deps.json
+C:\Users\kscics\Desktop\inClassDemo\Decision\bin\Debug\net7.0\Decision.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\Decision\bin\Debug\net7.0\Decision.dll
+C:\Users\kscics\Desktop\inClassDemo\Decision\bin\Debug\net7.0\Decision.pdb
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\Decision.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\Decision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\Decision.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\Decision.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\Decision.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\Decision.dll
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\refint\Decision.dll
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\Decision.pdb
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\Decision.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\Decision\obj\Debug\net7.0\ref\Decision.dll
