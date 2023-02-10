@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\bin\Debug\net7.0\SalesCommission.exe
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\bin\Debug\net7.0\SalesCommission.deps.json
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\bin\Debug\net7.0\SalesCommission.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\bin\Debug\net7.0\SalesCommission.dll
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\bin\Debug\net7.0\SalesCommission.pdb
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\SalesCommission.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\SalesCommission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\SalesCommission.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\SalesCommission.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\SalesCommission.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\SalesCommission.dll
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\refint\SalesCommission.dll
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\SalesCommission.pdb
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\SalesCommission.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\SalesCommission\obj\Debug\net7.0\ref\SalesCommission.dll
