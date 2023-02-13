@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\Switch\bin\Debug\net7.0\Switch.exe
+C:\Users\kscics\Desktop\inClassDemo\Switch\bin\Debug\net7.0\Switch.deps.json
+C:\Users\kscics\Desktop\inClassDemo\Switch\bin\Debug\net7.0\Switch.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\Switch\bin\Debug\net7.0\Switch.dll
+C:\Users\kscics\Desktop\inClassDemo\Switch\bin\Debug\net7.0\Switch.pdb
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\Switch.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\Switch.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\Switch.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\Switch.dll
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\refint\Switch.dll
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\Switch.pdb
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\Switch.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\Switch\obj\Debug\net7.0\ref\Switch.dll

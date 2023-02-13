@@ -11,3 +11,17 @@ if(username == USERNAME && PASSWORD==password) {
 } else {
     Console.WriteLine("Access denied!!");
 }
+
+if(username!=USERNAME || password!=PASSWORD)
+{
+    Console.WriteLine("Access denied!!");
+} else 
+{
+    Console.WriteLine("Access granted");
+}
+
+if(!(username == USERNAME && password == PASSWORD)){
+    Console.WriteLine("Access denied!!");
+} else {
+    Console.WriteLine("Access granted");
+}
