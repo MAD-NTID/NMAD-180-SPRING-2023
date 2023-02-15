@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\bin\Debug\net7.0\WingsHeaven.exe
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\bin\Debug\net7.0\WingsHeaven.deps.json
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\bin\Debug\net7.0\WingsHeaven.runtimeconfig.json
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\bin\Debug\net7.0\WingsHeaven.dll
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\bin\Debug\net7.0\WingsHeaven.pdb
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\WingsHeaven.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\WingsHeaven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\WingsHeaven.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\WingsHeaven.AssemblyInfo.cs
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\WingsHeaven.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\WingsHeaven.dll
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\refint\WingsHeaven.dll
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\WingsHeaven.pdb
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\WingsHeaven.genruntimeconfig.cache
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\WingsHeaven\obj\Debug\net7.0\ref\WingsHeaven.dll

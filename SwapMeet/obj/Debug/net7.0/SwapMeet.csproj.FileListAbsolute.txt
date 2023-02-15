@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\bin\Debug\net7.0\SwapMeet.exe
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\bin\Debug\net7.0\SwapMeet.deps.json
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\bin\Debug\net7.0\SwapMeet.runtimeconfig.json
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\bin\Debug\net7.0\SwapMeet.dll
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\bin\Debug\net7.0\SwapMeet.pdb
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\SwapMeet.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\SwapMeet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\SwapMeet.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\SwapMeet.AssemblyInfo.cs
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\SwapMeet.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\SwapMeet.dll
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\refint\SwapMeet.dll
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\SwapMeet.pdb
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\SwapMeet.genruntimeconfig.cache
+C:\Users\kscics\Desktop\mock-practical-1-kemoycampbell\SwapMeet\obj\Debug\net7.0\ref\SwapMeet.dll
