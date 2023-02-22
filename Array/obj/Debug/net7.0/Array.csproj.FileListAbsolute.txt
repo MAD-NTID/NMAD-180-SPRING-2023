@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\Array\bin\Debug\net7.0\Array.exe
+C:\Users\kscics\Desktop\inClassDemo\Array\bin\Debug\net7.0\Array.deps.json
+C:\Users\kscics\Desktop\inClassDemo\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\Array\bin\Debug\net7.0\Array.dll
+C:\Users\kscics\Desktop\inClassDemo\Array\bin\Debug\net7.0\Array.pdb
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\Array.dll
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\refint\Array.dll
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\Array.pdb
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\Array\obj\Debug\net7.0\ref\Array.dll
