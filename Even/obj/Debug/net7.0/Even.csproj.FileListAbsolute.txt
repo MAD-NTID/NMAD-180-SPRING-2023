@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\Even\bin\Debug\net7.0\Even.exe
+C:\Users\kscics\Desktop\inClassDemo\Even\bin\Debug\net7.0\Even.deps.json
+C:\Users\kscics\Desktop\inClassDemo\Even\bin\Debug\net7.0\Even.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\Even\bin\Debug\net7.0\Even.dll
+C:\Users\kscics\Desktop\inClassDemo\Even\bin\Debug\net7.0\Even.pdb
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\Even.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\Even.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\Even.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\Even.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\Even.dll
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\refint\Even.dll
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\Even.pdb
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\Even.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\Even\obj\Debug\net7.0\ref\Even.dll
