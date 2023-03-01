@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\ICE13\bin\Debug\net7.0\ICE13.exe
+C:\Users\kscics\Desktop\inClassDemo\ICE13\bin\Debug\net7.0\ICE13.deps.json
+C:\Users\kscics\Desktop\inClassDemo\ICE13\bin\Debug\net7.0\ICE13.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\ICE13\bin\Debug\net7.0\ICE13.dll
+C:\Users\kscics\Desktop\inClassDemo\ICE13\bin\Debug\net7.0\ICE13.pdb
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\ICE13.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\ICE13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\ICE13.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\ICE13.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\ICE13.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\ICE13.dll
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\refint\ICE13.dll
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\ICE13.pdb
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\ICE13.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\ICE13\obj\Debug\net7.0\ref\ICE13.dll

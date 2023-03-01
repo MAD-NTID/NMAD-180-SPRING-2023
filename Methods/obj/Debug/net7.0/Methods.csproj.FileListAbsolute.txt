@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\Methods\bin\Debug\net7.0\Methods.exe
+C:\Users\kscics\Desktop\inClassDemo\Methods\bin\Debug\net7.0\Methods.deps.json
+C:\Users\kscics\Desktop\inClassDemo\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\Methods\bin\Debug\net7.0\Methods.dll
+C:\Users\kscics\Desktop\inClassDemo\Methods\bin\Debug\net7.0\Methods.pdb
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\Methods.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\Methods.dll
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\refint\Methods.dll
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\Methods.pdb
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\Methods\obj\Debug\net7.0\ref\Methods.dll
