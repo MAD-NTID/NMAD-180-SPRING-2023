@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\bin\Debug\net7.0\IntroToClass.exe
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\bin\Debug\net7.0\IntroToClass.deps.json
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\bin\Debug\net7.0\IntroToClass.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\bin\Debug\net7.0\IntroToClass.dll
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\bin\Debug\net7.0\IntroToClass.pdb
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\IntroToClass.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\IntroToClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\IntroToClass.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\IntroToClass.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\IntroToClass.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\IntroToClass.dll
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\refint\IntroToClass.dll
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\IntroToClass.pdb
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\IntroToClass.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\IntroToClass\obj\Debug\net7.0\ref\IntroToClass.dll

@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\bin\Debug\net7.0\ParallelArrayIssue.exe
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\bin\Debug\net7.0\ParallelArrayIssue.deps.json
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\bin\Debug\net7.0\ParallelArrayIssue.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\bin\Debug\net7.0\ParallelArrayIssue.dll
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\bin\Debug\net7.0\ParallelArrayIssue.pdb
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\ParallelArrayIssue.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\ParallelArrayIssue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\ParallelArrayIssue.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\ParallelArrayIssue.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\ParallelArrayIssue.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\ParallelArrayIssue.dll
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\refint\ParallelArrayIssue.dll
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\ParallelArrayIssue.pdb
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\ParallelArrayIssue.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\ParallelArrayIssue\obj\Debug\net7.0\ref\ParallelArrayIssue.dll
