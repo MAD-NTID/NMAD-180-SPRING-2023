@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\bin\Debug\net7.0\Pokemon.exe
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\bin\Debug\net7.0\Pokemon.deps.json
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\bin\Debug\net7.0\Pokemon.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\bin\Debug\net7.0\Pokemon.dll
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\bin\Debug\net7.0\Pokemon.pdb
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\Pokemon.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\Pokemon.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\Pokemon.dll
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\refint\Pokemon.dll
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\Pokemon.pdb
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\Pokemon.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\Pokemon\obj\Debug\net7.0\ref\Pokemon.dll
