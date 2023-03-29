@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kscics\\.nuget\\packages\\": {},
+    "C:\\Users\\mxbics\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kscics\\Desktop\\inClassDemo\\Pokemon\\Pokemon.csproj",
+      "projectUniqueName": "C:\\Users\\mxbics\\Documents\\Kemoy-2225\\Pokemon\\Pokemon.csproj",
       "projectName": "Pokemon",
-      "projectPath": "C:\\Users\\kscics\\Desktop\\inClassDemo\\Pokemon\\Pokemon.csproj",
-      "packagesPath": "C:\\Users\\kscics\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kscics\\Desktop\\inClassDemo\\Pokemon\\obj\\",
+      "projectPath": "C:\\Users\\mxbics\\Documents\\Kemoy-2225\\Pokemon\\Pokemon.csproj",
+      "packagesPath": "C:\\Users\\mxbics\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mxbics\\Documents\\Kemoy-2225\\Pokemon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kscics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mxbics\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
