@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\ListExample\bin\Debug\net7.0\ListExample.exe
+C:\Users\kscics\Desktop\inClassDemo\ListExample\bin\Debug\net7.0\ListExample.deps.json
+C:\Users\kscics\Desktop\inClassDemo\ListExample\bin\Debug\net7.0\ListExample.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\ListExample\bin\Debug\net7.0\ListExample.dll
+C:\Users\kscics\Desktop\inClassDemo\ListExample\bin\Debug\net7.0\ListExample.pdb
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\ListExample.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\ListExample.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\ListExample.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\ListExample.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\ListExample.dll
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\refint\ListExample.dll
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\ListExample.pdb
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\ListExample.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\ListExample\obj\Debug\net7.0\ref\ListExample.dll
