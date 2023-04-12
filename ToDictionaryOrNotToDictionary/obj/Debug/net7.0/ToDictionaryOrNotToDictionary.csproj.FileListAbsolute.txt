@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\bin\Debug\net7.0\ToDictionaryOrNotToDictionary.exe
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\bin\Debug\net7.0\ToDictionaryOrNotToDictionary.deps.json
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\bin\Debug\net7.0\ToDictionaryOrNotToDictionary.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\bin\Debug\net7.0\ToDictionaryOrNotToDictionary.dll
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\bin\Debug\net7.0\ToDictionaryOrNotToDictionary.pdb
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\ToDictionaryOrNotToDictionary.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\ToDictionaryOrNotToDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\ToDictionaryOrNotToDictionary.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\ToDictionaryOrNotToDictionary.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\ToDictionaryOrNotToDictionary.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\ToDictionaryOrNotToDictionary.dll
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\refint\ToDictionaryOrNotToDictionary.dll
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\ToDictionaryOrNotToDictionary.pdb
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\ToDictionaryOrNotToDictionary.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\ToDictionaryOrNotToDictionary\obj\Debug\net7.0\ref\ToDictionaryOrNotToDictionary.dll
