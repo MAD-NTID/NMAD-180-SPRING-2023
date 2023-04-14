@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\bin\Debug\net7.0\Dictionary2.0.exe
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\bin\Debug\net7.0\Dictionary2.0.deps.json
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\bin\Debug\net7.0\Dictionary2.0.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\bin\Debug\net7.0\Dictionary2.0.dll
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\bin\Debug\net7.0\Dictionary2.0.pdb
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\Dictionary2.0.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\Dictionary2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\Dictionary2.0.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\Dictionary2.0.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\Dictionary2.0.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\Dictionary2.0.dll
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\refint\Dictionary2.0.dll
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\Dictionary2.0.pdb
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\Dictionary2.0.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\Dictionary2.0\obj\Debug\net7.0\ref\Dictionary2.0.dll
