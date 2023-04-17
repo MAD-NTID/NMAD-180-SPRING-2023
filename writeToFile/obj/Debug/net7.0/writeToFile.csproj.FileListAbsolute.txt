@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\bin\Debug\net7.0\writeToFile.exe
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\bin\Debug\net7.0\writeToFile.deps.json
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\bin\Debug\net7.0\writeToFile.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\bin\Debug\net7.0\writeToFile.dll
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\bin\Debug\net7.0\writeToFile.pdb
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\writeToFile.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\writeToFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\writeToFile.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\writeToFile.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\writeToFile.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\writeToFile.dll
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\refint\writeToFile.dll
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\writeToFile.pdb
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\writeToFile.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\writeToFile\obj\Debug\net7.0\ref\writeToFile.dll
