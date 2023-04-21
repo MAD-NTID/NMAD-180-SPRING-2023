@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\CSV\bin\Debug\net7.0\CSV.exe
+C:\Users\kscics\Desktop\inClassDemo\CSV\bin\Debug\net7.0\CSV.deps.json
+C:\Users\kscics\Desktop\inClassDemo\CSV\bin\Debug\net7.0\CSV.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\CSV\bin\Debug\net7.0\CSV.dll
+C:\Users\kscics\Desktop\inClassDemo\CSV\bin\Debug\net7.0\CSV.pdb
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\CSV.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\CSV.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\CSV.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\CSV.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\CSV.dll
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\refint\CSV.dll
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\CSV.pdb
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\CSV.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\CSV\obj\Debug\net7.0\ref\CSV.dll
