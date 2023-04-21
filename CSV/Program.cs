@@ -5,6 +5,13 @@
 //     {"Brian Trager", new Faculty("Brian Trager", "DC", "MAD1")}
 // };
 
+// for(int i = 0; i < 2000000; i++){
+//     string key = $"key{i}";
+//     List<string>courses = new List<string>();
+//     courses.Add($"course{i}");
+//     faculties.Add(key, new Faculty(key, $"position{i}", courses));
+// }
+
 List<string> menus = new List<string>()
 {
     "Add Faculty",
