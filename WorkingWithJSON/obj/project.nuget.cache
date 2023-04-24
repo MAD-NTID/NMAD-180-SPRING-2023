@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rF3cLse+8lWxREclfv/eNl7ctKnrN2CYR9dZoK3XnbzBFpe1GR7vJowJu5ercy7j2s33Rt8tIkrjkxuVS63CbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kscics\\Desktop\\inClassDemo\\WorkingWithJSON\\WorkingWithJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kscics\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

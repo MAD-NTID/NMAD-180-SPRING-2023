@@ -1,0 +1,17 @@
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\bin\Debug\net7.0\WorkingWithJSON.exe
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\bin\Debug\net7.0\WorkingWithJSON.deps.json
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\bin\Debug\net7.0\WorkingWithJSON.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\bin\Debug\net7.0\WorkingWithJSON.dll
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\bin\Debug\net7.0\WorkingWithJSON.pdb
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\WorkingWithJSON.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\WorkingWithJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\WorkingWithJSON.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\WorkingWithJSON.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\WorkingWithJSON.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\WorkingWithJSON.dll
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\refint\WorkingWithJSON.dll
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\WorkingWithJSON.pdb
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\WorkingWithJSON.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\ref\WorkingWithJSON.dll
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\kscics\Desktop\inClassDemo\WorkingWithJSON\obj\Debug\net7.0\WorkingWithJSON.csproj.CopyComplete
