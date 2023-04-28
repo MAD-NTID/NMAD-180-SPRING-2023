@@ -1,0 +1,17 @@
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.exe
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.deps.json
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.dll
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.pdb
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.CopyComplete
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.dll
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\refint\WorkingWithJson.dll
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.pdb
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithJson\obj\Debug\net7.0\ref\WorkingWithJson.dll

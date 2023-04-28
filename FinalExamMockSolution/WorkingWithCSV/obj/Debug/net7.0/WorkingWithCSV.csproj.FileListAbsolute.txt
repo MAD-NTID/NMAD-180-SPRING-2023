@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\bin\Debug\net7.0\WorkingWithCSV.exe
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\bin\Debug\net7.0\WorkingWithCSV.deps.json
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\bin\Debug\net7.0\WorkingWithCSV.runtimeconfig.json
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\bin\Debug\net7.0\WorkingWithCSV.dll
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\bin\Debug\net7.0\WorkingWithCSV.pdb
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\WorkingWithCSV.csproj.AssemblyReference.cache
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\WorkingWithCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\WorkingWithCSV.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\WorkingWithCSV.AssemblyInfo.cs
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\WorkingWithCSV.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\WorkingWithCSV.dll
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\refint\WorkingWithCSV.dll
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\WorkingWithCSV.pdb
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\WorkingWithCSV.genruntimeconfig.cache
+C:\Users\kscics\Desktop\inClassDemo\FinalExamMockSolution\WorkingWithCSV\obj\Debug\net7.0\ref\WorkingWithCSV.dll
